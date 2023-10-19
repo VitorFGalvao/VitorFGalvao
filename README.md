@@ -1,4 +1,4 @@
-## Olá, Meu nome é vitor Felipe Galvão Analista e Desenvolvedor de Sistemas
+## Olá, Meu nome é Vitor Felipe Galvão Analista e Desenvolvedor de Sistemas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
