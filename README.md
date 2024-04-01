@@ -1,6 +1,6 @@
 ## Hello! Welcome to my Github profile. 
 ## My name is Vitor Felipe Galvão Systems Analyst and Developer
-### Currently working with Python for Web automation
+### Currently working with Java and Sql Server in Emp Sys - Systems and Services (Glorian System)
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vitor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
